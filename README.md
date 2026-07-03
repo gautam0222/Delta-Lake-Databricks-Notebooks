@@ -298,7 +298,3 @@ By completing these notebooks, the following Delta Lake skills are covered:
 - Tracking row-level changes with Change Data Feed
 - Creating UniForm tables for Iceberg compatibility
 - Optimizing table layout with compaction, Z-Ordering, and Liquid Clustering
-
-## Project Status
-
-This repository is a Delta Lake practice project and reference notebook collection. It is suitable for publishing on GitHub as a learning portfolio project for Databricks and Delta Lake fundamentals.
